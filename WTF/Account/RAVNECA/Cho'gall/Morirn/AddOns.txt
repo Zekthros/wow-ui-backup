@@ -1,0 +1,2 @@
+MSBTOptions: disabled
+MikScrollingBattleText: disabled

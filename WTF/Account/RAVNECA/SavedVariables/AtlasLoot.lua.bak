@@ -1,0 +1,35 @@
+
+AtlasLootDB = {
+	["namespaces"] = {
+		["DefaultFrame"] = {
+			["profiles"] = {
+				["Elindor - Cho'gall"] = {
+					["module"] = "AtlasLootWotLK",
+					["NEWpoint"] = {
+						nil, -- [1]
+						nil, -- [2]
+						"CENTER", -- [3]
+						-1.000077962875366, -- [4]
+						0, -- [5]
+					},
+					["instance"] = "Ulduar",
+				},
+			},
+		},
+		["AtlasLootPanel"] = {
+		},
+		["WishList"] = {
+		},
+		["Filter"] = {
+		},
+	},
+	["showWarning"] = true,
+	["profileKeys"] = {
+		["Elindor - Cho'gall"] = "Elindor - Cho'gall",
+	},
+	["profiles"] = {
+		["Elindor - Cho'gall"] = {
+			["LootTableType"] = "25Man",
+		},
+	},
+}

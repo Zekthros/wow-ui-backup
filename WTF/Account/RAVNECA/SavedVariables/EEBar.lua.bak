@@ -1,0 +1,24 @@
+
+EEBarDB = {
+	["enhanced_eclipse_bar"] = {
+		["font"] = {
+			["flags"] = {
+				["OUTLINE"] = true,
+			},
+			["font"] = "Friz Quadrata",
+			["size"] = 16,
+		},
+		["hide_blizzard_eclipse_bar"] = true,
+		["skin"] = "Flat",
+		["always_show_eclipse_bar"] = true,
+		["frame"] = {
+			["point"] = "CENTER",
+			["relativePoint"] = "CENTER",
+			["yOfs"] = -273.998718261719,
+			["xOfs"] = -1.00000011920929,
+			["height"] = 35.0000991821289,
+			["width"] = 280.000122070313,
+		},
+		["only_show_in_combat"] = true,
+	},
+}

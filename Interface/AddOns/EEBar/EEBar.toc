@@ -1,0 +1,11 @@
+## Interface: 60000
+## Title: Enhanced Eclipse Bar
+## Notes: Customizable and more informative eclipse bar. /eebar help for commands.
+## Version: 1.0.7
+## Author: Klynk#2603
+## SavedVariables: EEBarDB
+
+Skins\Default\Skin.lua
+Skins\Flat\Skin.lua
+
+EEBar.lua

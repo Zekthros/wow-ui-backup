@@ -1,0 +1,19 @@
+
+HandyNotesDB = {
+	["profileKeys"] = {
+		["Lustoise - Arthas"] = "Lustoise - Arthas",
+	},
+	["profiles"] = {
+		["Lustoise - Arthas"] = {
+		},
+	},
+}
+HandyNotes_HandyNotesDB = {
+	["profileKeys"] = {
+		["Lustoise - Arthas"] = "Lustoise - Arthas",
+	},
+	["profiles"] = {
+		["Lustoise - Arthas"] = {
+		},
+	},
+}

@@ -1,0 +1,46 @@
+
+ElvDB = {
+	["profileKeys"] = {
+		["Valteros - Arthas"] = "Valteros - Arthas",
+	},
+	["gold"] = {
+		["Arthas"] = {
+			["Valteros"] = 42620443,
+		},
+	},
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["profiles"] = {
+		["Valteros - Arthas"] = {
+			["movers"] = {
+				["ElvAB_2"] = "BOTTOMElvUIParentBOTTOM038",
+			},
+			["layoutSet"] = "dpsMelee",
+			["general"] = {
+				["valuecolor"] = {
+					["b"] = 0.819,
+					["g"] = 0.513,
+					["r"] = 0.09,
+				},
+				["bordercolor"] = {
+					["b"] = 0.31,
+					["g"] = 0.31,
+					["r"] = 0.31,
+				},
+			},
+		},
+	},
+}
+ElvPrivateDB = {
+	["profileKeys"] = {
+		["Valteros - Arthas"] = "Valteros - Arthas",
+	},
+	["profiles"] = {
+		["Valteros - Arthas"] = {
+			["theme"] = "classic",
+			["install_complete"] = "6.99991",
+		},
+	},
+}

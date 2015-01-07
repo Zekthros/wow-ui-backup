@@ -1,0 +1,11 @@
+
+AtlasLootCharDB = {
+	["namespaces"] = {
+		["WishList"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Desharn - Cho'gall"] = "Desharn - Cho'gall",
+	},
+	["AtlasLootVersion"] = "70703",
+}

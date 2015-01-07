@@ -1,0 +1,11 @@
+AddOnSkins_ElvUI: disabled
+AtlasLoot: enabled
+AtlasLoot_BurningCrusade: enabled
+AtlasLoot_Cataclysm: enabled
+AtlasLoot_ClassicWoW: enabled
+AtlasLoot_Crafting: enabled
+AtlasLoot_Loader: enabled
+AtlasLoot_MistsofPandaria: enabled
+AtlasLoot_WorldEvents: enabled
+AtlasLoot_WrathoftheLichKing: enabled
+Altoholic: disabled

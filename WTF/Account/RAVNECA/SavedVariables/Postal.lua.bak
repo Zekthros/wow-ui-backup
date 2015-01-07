@@ -1,0 +1,17 @@
+
+Postal3DB = {
+	["global"] = {
+		["BlackBook"] = {
+			["alts"] = {
+				"Blastoise|Cho'gall|Horde|90|SHAMAN", -- [1]
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Blastoise - Cho'gall"] = "Blastoise - Cho'gall",
+	},
+	["profiles"] = {
+		["Blastoise - Cho'gall"] = {
+		},
+	},
+}

@@ -1,0 +1,7 @@
+
+NugComboBarDB_Global = {
+	["adjustY"] = 2.25,
+	["adjustX"] = 2.25,
+	["charspec"] = {
+	},
+}

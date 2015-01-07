@@ -1,0 +1,17 @@
+
+Postal3DB = {
+	["global"] = {
+		["BlackBook"] = {
+			["alts"] = {
+				"Valteros|Arthas|Horde|90|WARLOCK", -- [1]
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Valteros - Arthas"] = "Valteros - Arthas",
+	},
+	["profiles"] = {
+		["Valteros - Arthas"] = {
+		},
+	},
+}

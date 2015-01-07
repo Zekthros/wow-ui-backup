@@ -1,0 +1,54 @@
+
+ElvDB = {
+	["profileKeys"] = {
+		["Blastoise - Cho'gall"] = "Blastoise - Cho'gall",
+	},
+	["gold"] = {
+		["Cho'gall"] = {
+			["Blastoise"] = 1339185284,
+		},
+	},
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["profiles"] = {
+		["Blastoise - Cho'gall"] = {
+			["general"] = {
+				["valuecolor"] = {
+					["b"] = 0.819,
+					["g"] = 0.513,
+					["r"] = 0.09,
+				},
+				["bordercolor"] = {
+					["b"] = 0.31,
+					["g"] = 0.31,
+					["r"] = 0.31,
+				},
+			},
+			["movers"] = {
+				["ElvAB_2"] = "BOTTOMElvUIParentBOTTOM038",
+			},
+			["datatexts"] = {
+				["panels"] = {
+					["LeftChatDataPanel"] = {
+						["right"] = "Haste",
+						["left"] = "Attack Power",
+					},
+				},
+			},
+			["layoutSet"] = "dpsMelee",
+		},
+	},
+}
+ElvPrivateDB = {
+	["profileKeys"] = {
+		["Blastoise - Cho'gall"] = "Blastoise - Cho'gall",
+	},
+	["profiles"] = {
+		["Blastoise - Cho'gall"] = {
+			["theme"] = "classic",
+			["install_complete"] = "6.999",
+		},
+	},
+}

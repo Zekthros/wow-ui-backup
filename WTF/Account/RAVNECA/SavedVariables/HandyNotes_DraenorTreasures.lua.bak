@@ -1,0 +1,10 @@
+
+DraenorTreasuresDB = {
+	["profileKeys"] = {
+		["Lustoise - Arthas"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

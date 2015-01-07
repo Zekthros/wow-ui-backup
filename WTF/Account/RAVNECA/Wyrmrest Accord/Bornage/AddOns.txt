@@ -1,0 +1,2 @@
+AddOnSkins_ElvUI: disabled
+Altoholic: disabled

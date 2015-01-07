@@ -1,0 +1,46 @@
+============= 1.0.0 =============
+
+- First beta upload.
+
+============= 1.0.1 =============
+
+- Added changelog.
+- Rewrote controls to use tables.
+- Added an option frame.
+- Added option to change font & size.
+- Added option to skin the addon.
+
+============= 1.0.2 =============
+
+- Added option to permanently show the bar. (while balance)
+- Added option to reset size and position.
+
+============= 1.0.3 =============
+
+- Opacity of the eclipse power text is now reduced the closer it is to 0.
+- Added a close button to the options frame.
+- Updated the skin "Flat".
+- Fixed a bug where the bar was incorrectly displayed outside of the balance spec.
+
+============= 1.0.4 =============
+
+- Fixed frame strata to high when moving the eclipse bar.
+- Fixed a bug when loading settings which could cause a lua error.
+- Improved the re-positioning and re-sizing of the frames.
+
+============= 1.0.5 =============
+
+- Updated the damage of Wrath and Starfire as they got changed.
+- Added tracking of Lunar and Solar Empowerment.
+- Fixed a bug where the blizzard frame didn't properly hide.
+
+============= 1.0.6 =============
+
+- Fixed a bug where the bar didn't load/show when using non-Englih clients.
+
+============= 1.0.7 =============
+
+- Added display of the version in the options menu.
+- Added option to only display the eclipse bar during combat.
+- Fixed a bug where buffs were not displaying for non-Englih clients.
+- Renamed option "Always Show Eclipse Bar" to "Show No Matter Shapeshift".

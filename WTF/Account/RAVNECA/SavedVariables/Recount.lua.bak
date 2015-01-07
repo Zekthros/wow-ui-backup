@@ -1,0 +1,32 @@
+
+RecountDB = {
+	["profileKeys"] = {
+		["Blastoise - Cho'gall"] = "Blastoise - Cho'gall",
+	},
+	["profiles"] = {
+		["Blastoise - Cho'gall"] = {
+			["GraphWindowY"] = 0,
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = 3.0517578125e-005,
+					["w"] = 139.9999694824219,
+					["h"] = 199.9999847412109,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["DetailWindowY"] = 0,
+			["DetailWindowX"] = 0,
+			["GraphWindowX"] = 0,
+			["CurDataSet"] = "OverallData",
+		},
+	},
+}

@@ -1,0 +1,5 @@
+MSBTOptions: disabled
+MikScrollingBattleText: disabled
+NugComboBar: enabled
+NugComboBarGUI: enabled
+Altoholic: disabled

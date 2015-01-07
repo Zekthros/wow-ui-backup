@@ -1,0 +1,34 @@
+
+EPGP_DB = {
+	["namespaces"] = {
+		["boss"] = {
+		},
+		["loot"] = {
+		},
+		["warnings"] = {
+		},
+		["whisper"] = {
+		},
+		["log"] = {
+		},
+		["gptooltip"] = {
+		},
+		["announce"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Blastoise - Cho'gall"] = "Morior Invictus",
+	},
+	["global"] = {
+		["last_version"] = "5.9.22",
+		["last_tier"] = 504,
+	},
+	["profiles"] = {
+		["Blastoise - Cho'gall"] = {
+			["outsiders"] = 0,
+		},
+		["Morior Invictus"] = {
+			["outsiders"] = 0,
+		},
+	},
+}
